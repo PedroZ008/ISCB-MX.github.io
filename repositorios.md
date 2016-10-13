@@ -4,4 +4,9 @@ title: Repositorios
 permalink: /repos/
 ---
 
-Los repos del grupo etc. lorem isum.
+# Repositorios en GitHub
+
+Mas loerem ipsum, etc.  blah blah
+
+- asdf
+- asdf
