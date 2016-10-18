@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About us
-permalink: /about/
+permalink: /About/
 ---
 
 Somo una organización conformada por... con la finalidad de ...
