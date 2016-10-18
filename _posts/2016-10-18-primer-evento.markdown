@@ -1,0 +1,3 @@
+# Evento de presentación ISCB-México
+
+_ISCB-México_ invita a participar en ...   La cita es .... en el lugar ....
