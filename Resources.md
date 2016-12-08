@@ -12,3 +12,4 @@ Recursos dispobibles.
 3. Cursos presenciales
 4. Documentos
 
+[git](https://github.com/ISCB-MX/git_course)
