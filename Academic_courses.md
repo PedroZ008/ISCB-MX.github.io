@@ -6,4 +6,4 @@ permalink: /Academic_courses/
 
 Próximos cursos:
 
-* Git 
+* [Introducción a git](https://github.com/ISCB-MX/git_course) 
