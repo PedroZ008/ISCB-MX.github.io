@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Resources
-permalink: /Resources/
+title: Academic Resources
+permalink: /Academic_Resources/
 ---
 
 
