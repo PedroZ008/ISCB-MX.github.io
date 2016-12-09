@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Academic Courses
-permalink: /Academic_courses/
+title: Courses
+permalink: /Courses/
 ---
 
 Próximos cursos:
