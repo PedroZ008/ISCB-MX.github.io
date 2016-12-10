@@ -42,6 +42,7 @@ Si te interesa que uno o varios de los talleres que ofrecemos sean impartidos en
 
 
 Aquí puedes encontrar más información acerca de [RSG-México](http://rsg-mexico.iscbsc.org/) y la [ISCB](http://rsg.iscbsc.org/)
+también en la primera dirección puedes inscribirte a la lista de correos para recibir notificaciones. 
 
 
 ### Próximos talleres... (Coming soon):
