@@ -14,9 +14,9 @@ permalink: /Cursos-Talleres/
 
 * **[Introducción a Git y Github](https://github.com/ISCB-MX/git_course)** -- Lugar: UNAM, CU, Laboratorio Nacional de Ciencias de la Sostenibilidad, puedes revisar el mapa donde esta ubicado [aquí](https://www.google.com.mx/maps/place/Laboratorio+Nacional+de+Ciencias+de+la+Sostenibilidad+%28LANCIS%29/@19.3225844,-99.1941297,17z/data=!3m1!4b1!4m5!3m4!1s0x85cdffe2e8adfce1:0x9c3ab1c80685da94!8m2!3d19.3225794!4d-99.191941?hl=es-419) -- Fecha: 05 de Enero de 2017 18:00 hrs.
 
-* **Introdución a GNU/Linux y Festival de instalalación** (Trae tu computadora y te ayudamos a instalar el sistema operativo libre de tu preferencia) -- Lugar: por definir -- Fecha: Febrero 2017 -- repositorio del curso
+* **Introdución a GNU/Linux y Festival de instalalación** (Trae tu computadora y te ayudamos a instalar el sistema operativo libre de tu preferencia) -- Lugar: por definir -- Fecha: Febrero 2017.
 
-* **[Profundizando en GNU/Linux y Línea comandos interactiva (BASH)](https://github.com/LIDSOL-NPL/Bioinformatics-workshops/tree/master/Sistema_GNU-Linux_y_BASH)** _[Este es ALTAMENTE recomendable si asististe al de instalación de GNU/Linux]_ -- Lugar: por definir -- Fecha: Febrero 2017 -- repositorio del curso
+* **[Profundizando en GNU/Linux y Línea comandos interactiva (BASH)](https://github.com/LIDSOL-NPL/Bioinformatics-workshops/tree/master/Sistema_GNU-Linux_y_BASH)** _[Este es ALTAMENTE recomendable si asististe al de instalación de GNU/Linux]_ -- Lugar: por definir -- Fecha: Febrero 2017.
 
 
 ### ¿Deseas impartir un taller? o que se imparta uno en tu institución:
@@ -40,7 +40,6 @@ Si te interesa que uno o varios de los talleres que ofrecemos sean impartidos en
 * ISCB (International Society for Computational Biology) mediante su grupo estudiantil regional en México (RSG-México).
 * LIDSOL (Laboratorio de Investigación y Desarrollo de Software Libre)
 
-contacto: r8a8m8p8@riseup.net  
 
 Aquí puedes encontrar más información acerca de [RSG-México](http://rsg-mexico.iscbsc.org/) y la [ISCB](http://rsg.iscbsc.org/)
 
@@ -49,21 +48,3 @@ Aquí puedes encontrar más información acerca de [RSG-México](http://rsg-mexi
 
 * R
 * Análisis de datos genómicos con Python
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Próximos cursos:
-
-* [Introducción a git](https://github.com/ISCB-MX/git_course) 
