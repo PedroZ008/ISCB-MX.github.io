@@ -1,15 +1,12 @@
 ---
 layout: page
-title: Academic Resources
-permalink: /Academic_Resources/
+title: Recursos Académicos
+permalink: /Recursos_Académicos/
 ---
 
 
 Recursos dispobibles.
 
 1. Listado de laboratorios que trabajan en el área de biología computacional, ubicados geográficamente.
-2. MOOC 
-3. Cursos presenciales
-4. Documentos
-
-[git](https://github.com/ISCB-MX/git_course)
+2. Listado de MOOCs (Masive online open courses)
+3. Documentos
