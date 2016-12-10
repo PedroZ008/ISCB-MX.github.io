@@ -40,14 +40,12 @@ Si te interesa que uno o varios de los talleres que ofrecemos sean impartidos en
 
 ### Estas actividades son promovidas por las siguientes organizaciones:
 
-* ISCB (International Society for Computational Biology) mediante su grupo estudiantil regional en México (RSG-México).
+* [ISCB](http://rsg.iscbsc.org/) (International Society for Computational Biology) mediante su grupo estudiantil regional en México [(RSG-México)](http://rsg-mexico.iscbsc.org/) en esta última puedes suscribirte a nuestra lista de correos para que recibir notificaciones.
 * LIDSOL (Laboratorio de Investigación y Desarrollo de Software Libre)  
-
-Aquí puedes encontrar más información acerca de [RSG-México](http://rsg-mexico.iscbsc.org/) y la [ISCB](http://rsg.iscbsc.org/)
-también en la primera dirección puedes inscribirte a la lista de correos para recibir notificaciones.   
 
 
 ### Próximos talleres... (Coming soon):
 
 * R
 * Análisis de datos genómicos con Python
+* Introducción a las redes booleanas
