@@ -4,6 +4,7 @@ title: Cursos-Talleres
 permalink: /Cursos-Talleres/
 ---
 
+
 ## Objetivos:
 
 * Ayudar al desarrollo de la ciencia y técnica en áreas del conocimiento como biología computacional y software libre.
