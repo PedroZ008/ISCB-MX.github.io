@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Courses
-permalink: /Courses/
+title: Cursos-Talleres
+permalink: /Cursos-Talleres/
 ---
 
-# Cursos / Talleres 
+# Cursos-Talleres 
 
 El objetivo de estos Cursos/talleres son:
 
@@ -18,7 +18,7 @@ Estas actividades son promovidas por las siguientes organizaciones:
 
 Si te interesa que uno o varios de los talleres que ofrecemos sean impartidos en tu institución puedes ponerte en contacto con nosotros para organizar tales eventos en el siguiente correo r8a8m8p8@riseup.net. Ahora si tu deseas impartir un talller relacionado a los objetivos antes descritos en las instalaciones donde impartimos nuestros cursos y/ó deseas que te ayudemos sólo a la difusión de tu evento por nuestra página, redes sociales, etc. por favor envianos una solicitud con los requisitos [aquí descritos](insertarliga).
 
-## Listado de cursos / talleres:  
+## Listado de cursos-talleres:  
 
 * Introducción a Git y Github -- Lugar: UNAM, CU, Laboratorio Nacional de Ciencias de la Sostenibilidad, puedes revisar el mapa donde esta ubicado [aquí](https://www.google.com.mx/maps/place/Laboratorio+Nacional+de+Ciencias+de+la+Sostenibilidad+%28LANCIS%29/@19.3225844,-99.1941297,17z/data=!3m1!4b1!4m5!3m4!1s0x85cdffe2e8adfce1:0x9c3ab1c80685da94!8m2!3d19.3225794!4d-99.191941?hl=es-419) -- Fecha: 05 de Enero de 2017 18:00 hrs -- Más información en el [repositorio del taller]().
 
