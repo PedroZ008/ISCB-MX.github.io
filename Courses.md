@@ -4,9 +4,7 @@ title: Cursos-Talleres
 permalink: /Cursos-Talleres/
 ---
 
-# Cursos-Talleres 
-
-El objetivo de estos Cursos/talleres son:
+El objetivo de estos Cursos-talleres son:
 
 * Ayudar al desarrollo de la ciencia y técnica en áreas del conocimiento como biología computacional y software libre.
 * Fomentar Una ciudadanía consciente y responsable en el uso y consumo de nuevas tecnologías informáticas.
