@@ -4,12 +4,12 @@ title: Cursos-Talleres
 permalink: /Cursos-Talleres/
 ---
 
-## El objetivo de estos Cursos-talleres son:
+## Objetivos:
 
 * Ayudar al desarrollo de la ciencia y técnica en áreas del conocimiento como biología computacional y software libre.
 * Fomentar Una ciudadanía consciente y responsable en el uso y consumo de nuevas tecnologías informáticas.
 
-Estas actividades son promovidas por las siguientes organizaciones:
+## Estas actividades son promovidas por las siguientes organizaciones:
 
 * ISCB (International Society for Computational Biology) mediante su grupo estudiantil regional en México (RSG-México).
 * LIDSOL (Laboratorio de Investigación y Desarrollo de Software Libre)
@@ -29,6 +29,8 @@ Si te interesa que uno o varios de los talleres que ofrecemos sean impartidos en
 
 ### Acerca de la dinámica de los talleres:
 
+* Los talleres son gratuitos, no obstante como cualquer organización tenemos gastos para poder ofrecer los distintos servicios, si te gusta nuestro trabajo puedes apoyar de diversas maneras a la organización (no sólo económicamente) en la página oficial encontrarás [un apartado al respecto](http://rsg-mexico.iscbsc.org/).
+
 * El espacio esta dispobible por si gustan impartir/compartirnos un taller referente al área de Biología Computacional o cualquier proyecto relacionado con Software Libre.
 
 * Si eres un entusiasta del Software Libre, la computación o la bioinfórmatica, aquí encontrarás personas con quien colaborar, capacitarte, "hackear" ciencia y divertirte.
@@ -43,8 +45,7 @@ Aquí puedes encontrar más información acerca de [RSG-México](http://rsg-mexi
 
 ## Próximos talleres... (Coming soon):
 * R
-* Python
-* Control de versiones con Git
+* Análisis de datos genómicos con Python
 
 
 
