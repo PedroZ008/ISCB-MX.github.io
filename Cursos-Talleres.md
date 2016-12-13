@@ -23,7 +23,7 @@ permalink: /Cursos-Talleres/
 ### ¿Deseas impartir un taller? o que se imparta uno en tu institución:  
 
 
-Si te interesa que uno o varios de los talleres que ofrecemos sean impartidos en tu institución puedes ponerte en contacto con nosotros para organizar tales eventos. De igual manera si tu deseas impartir un talller relacionado a los objetivos antes descritos en las instalaciones donde impartimos nuestros cursos y/ó deseas que te ayudemos sólo a la difusión de tu evento por nuestra página, redes sociales, etc. por favor envianos una solicitud al correo cursos-rsg-mexico@protonmail.ch con los requisitos [aquí descritos](insertarliga).
+Si te interesa que uno o varios de los talleres que ofrecemos sean impartidos en tu institución puedes ponerte en contacto con nosotros para organizar tales eventos. De igual manera si tu deseas impartir un talller relacionado a los objetivos antes descritos en las instalaciones donde impartimos nuestros cursos y/ó deseas que te ayudemos sólo a la difusión de tu evento por nuestra página, redes sociales, etc. por favor envianos una solicitud al correo cursos-rsg-mexico@protonmail.ch con los requisitos [aquí descritos](https://github.com/ISCB-MX/ISCB-MX.github.io/blob/master/Requisitos-talleres.md).
 
 
 ### Acerca de la dinámica de los talleres:  
