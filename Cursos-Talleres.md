@@ -48,4 +48,4 @@ Si te interesa que uno o varios de los talleres que ofrecemos sean impartidos en
 
 * R
 * Análisis de datos genómicos con Python
-* Introducción a las redes booleanas
+* Introducción a la privacidad y seguridad computacional (Enfoque en comunicación de mensajes y navegación en internet) 
