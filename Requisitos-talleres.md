@@ -15,7 +15,7 @@ Por favor manda un correo a la dirección cursos-rsg-mexico@protonmail.ch con la
 4. Temario (Lista de temas y subtemas que se abordarán)
 5. En caso de contar con uno, proporcionar la dirección al repositorio Git del curso con los contenidos, datos y código para la práctica 
 6. Nombres de los ponentes
-7. Trayectoria académica de los ponentes (principalmente para motivos de la presentación)
+7. Breve descripción de la trayectoria académica de los ponentes (principalmente para motivos de la presentación)
 
 ### 
 
