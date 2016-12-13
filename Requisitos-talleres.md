@@ -4,7 +4,7 @@ title: Requisitos para los talleres
 ---
 
 # Requisitos
-Por favor manda un correo a la dirección cursos-rsg-mexico@protonmail.ch con la siguiente información:
+Por favor manda un correo a la dirección cursos-rsg-mexico@protonmail.ch con la información solicitada, según sea el caso:
 
 
 ### Dar un taller en nuestras instalaciones:
@@ -13,8 +13,9 @@ Por favor manda un correo a la dirección cursos-rsg-mexico@protonmail.ch con la
 2. Breve descripción (por ejemplo, ¿qué es? ¿para qué sirve?, máximo media cuartilla)
 3. Objetivos
 4. Temario (Lista de temas y subtemas que se abordarán)
-5. En caso de contar con uno, proporcionar la dirección al repositorio Git del curso con los contenidos, datos y código para la práctica. 
-
+5. En caso de contar con uno, proporcionar la dirección al repositorio Git del curso con los contenidos, datos y código para la práctica 
+6. Nombres de los ponentes
+7. Trayectoria académica de los ponentes (principalmente para motivos de la presentación)
 
 ### 
 
