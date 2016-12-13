@@ -1,7 +1,4 @@
----
-layout: page
-title: Requisitos para los talleres
----
+
 
 # Requisitos
 Por favor manda un correo a la dirección cursos-rsg-mexico@protonmail.ch con la información solicitada, según sea el caso:
