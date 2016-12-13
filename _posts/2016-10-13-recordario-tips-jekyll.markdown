@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "-recordario-tips-jekyll"
 date:   2016-10-13 16:01:32 -0500
 categories: jekyll update
 ---
