@@ -7,7 +7,7 @@ categories: organization news community-rsg
 
 Hola a todos!
 
-Anunciamos la apertura de la lista de correos rsg-mexico "community":
+Ponemos a su servicio la apertura de la lista de correos **rsg-mexico "community"**:
 
 Tiene como objetivo facilitar la comunicación entre todos y cada uno de la comunidad rsg, puedes postear a esta lista de correos y el resto de la comunidad te leerá.
 
