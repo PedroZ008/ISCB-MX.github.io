@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Nueva-lista-de-correos"
+title:  "Próximo Festival de Instalación de GNU/Linux en CU (UNAM)"
 date:   2017-01-20 00:01:32 -0500
 categories: organization news community-rsg
 ---
