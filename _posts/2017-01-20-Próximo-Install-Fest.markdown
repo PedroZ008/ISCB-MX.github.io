@@ -15,7 +15,9 @@ Planta baja del edificio K, a un costado de la biblioteca "Enrique Rivero Borrel
 
 [Esta es la ubicación en "google maps"](https://www.google.com.mx/maps/place/Centro+de+Docencia,+Ing.+Gilberto+Borja+Navarrete/@19.3256736,-99.184966,17z/data=!3m1!4b1!4m5!3m4!1s0x85ce0005934e5e63:0x166c535e1db54050!8m2!3d19.3256686!4d-99.1827773)  
 
-<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.openstreetmap.org/export/embed.html?bbox=-99.18847024440767%2C19.32264011064866%2C-99.17717278003694%2C19.329494242338995&amp;layer=mapnik&amp;marker=19.326067212438563%2C-99.18282151222229" style="border: 1px solid black"></iframe><br/><small><a href="http://www.openstreetmap.org/?mlat=19.32607&amp;mlon=-99.18282#map=18/19.32607/-99.18282&amp;layers=N">En OSM</a></small>
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.openstreetmap.org/export/embed.html?bbox=-99.18847024440767%2C19.32264011064866%2C-99.17717278003694%2C19.329494242338995&amp;layer=mapnik&amp;marker=19.326067212438563%2C-99.18282151222229" style="border: 1px solid black"></iframe>
+<br/>
+<a href="http://www.openstreetmap.org/?mlat=19.32607&amp;mlon=-99.18282#map=18/19.32607/-99.18282&amp;layers=N">En OSM</a>
 
 * Trae tu equipo de cómputo, respalda tu información y si es posible trae un usb vacío.
 
