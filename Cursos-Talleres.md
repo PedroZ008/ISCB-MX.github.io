@@ -13,7 +13,7 @@ permalink: /Cursos-Talleres/
 
 ### Listado de cursos-talleres:  
 
-* **[Introducción a Git y Github](https://github.com/ISCB-MX/git_course)** -- Lugar: UNAM, CU, Laboratorio Nacional de Ciencias de la Sostenibilidad, puedes revisar el mapa donde esta ubicado [aquí](https://www.google.com.mx/maps/place/Laboratorio+Nacional+de+Ciencias+de+la+Sostenibilidad+%28LANCIS%29/@19.3225844,-99.1941297,17z/data=!3m1!4b1!4m5!3m4!1s0x85cdffe2e8adfce1:0x9c3ab1c80685da94!8m2!3d19.3225794!4d-99.191941?hl=es-419) -- Fecha: 05 de Enero de 2017 17:00 hrs.
+* **[Introducción a Git y Github](https://github.com/ISCB-MX/git_course)** -- Lugar:-UNAM, CU, Laboratorio Nacional de Ciencias de la Sostenibilidad, puedes revisar el mapa donde esta ubicado [aquí](https://www.google.com.mx/maps/place/Laboratorio+Nacional+de+Ciencias+de+la+Sostenibilidad+%28LANCIS%29/@19.3225844,-99.1941297,17z/data=!3m1!4b1!4m5!3m4!1s0x85cdffe2e8adfce1:0x9c3ab1c80685da94!8m2!3d19.3225794!4d-99.191941?hl=es-419) -- Fecha: 05 de Enero de 2017 17:00 hrs.
 
 * **Introdución a GNU/Linux y Festival de instalalación** (Trae tu computadora y te ayudamos a instalar el sistema operativo libre de tu preferencia) -- Lugar: por definir -- Fecha: Febrero 2017.
 
